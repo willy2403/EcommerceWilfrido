@@ -76,7 +76,7 @@ if (productosEnCarritoLS) {
 }
 
 function agregarAlCarrito(e) {
-
+    
     Toastify({
         text: "Producto agregado",
         duration: 3000,
